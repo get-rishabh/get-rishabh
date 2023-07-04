@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, C, JavaScript, Java**
 
-- ⚡ Fun fact **<a href="#">DONT'T CLICK HERE</a>**
+- ⚡ Fun fact **<a href="#">DON'T CLICK HERE</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
