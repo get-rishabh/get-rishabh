@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋 COLONEL HERE</h1>
 <h3 align="center">A passionate Programmer and Graphic Designer from India</h3>
+<img align="right" width="500px" alt="GIF" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonel-here&label=Profile%20views&color=0e75b6&style=flat" alt="colonel-here" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colonel-here" alt="colonel-here" /></a> </p>
-
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Python, C, Javascript**
+- 💬 Ask me about **Python, C, JavaScript, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/get-rishabh-verma/**
 
-- ⚡ Fun fact **<button>DONT'T CLICK HERE</button>**
+- ⚡ Fun fact **<a href="#">DONT'T CLICK HERE</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
