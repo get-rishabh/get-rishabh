@@ -1,4 +1,4 @@
-<!--![logo](https://github.com/COLONEL-HERE/COLONEL-HERE/blob/main/Banner.png)-->
+![MasterHead](https://github.com/COLONEL-HERE/COLONEL-HERE/blob/main/Banner.png)
 <h1 align="center">Hi 👋 COLONEL HERE</h1>
 <h3 align="center">A passionate Programmer and Graphic Designer from India</h3>
 <img align="right" width="500px" alt="GIF" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
