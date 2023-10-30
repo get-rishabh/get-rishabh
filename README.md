@@ -26,14 +26,9 @@
 - 💬 Ask me about **Python, C, JavaScript, Java**
 
 - ⚡ Fun fact **<a href= "https://github.com/COLONEL-HERE">DON'T CLICK HERE</a>**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/get-rishabh-verma" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="get-rishabh-verma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aiml1b_rv_30351" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="aiml1b_rv_30351" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/callme_colonel" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="callme_colonel" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishabh208020" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="rishabh208020" height="20" width="30" /></a>
-</p>
+  <br>
+  
+<hr>
 
 <h3 align="center">Languages and Tools that I've worked with:</h3>
 
@@ -67,19 +62,23 @@
         <code><a href="https://visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
 
 </div>
-
+<hr>
+<br>
 <div>
           <div align="center">          
                     <div>
-                              <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colonel-here&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent" alt="colonel-here" />
-                    </div>
-                    <div>
-                              <br><img align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-here&show_icons=true&theme=transparent" alt="colonel-here" />
-                    </div>
-                    <div>
                               <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colonel-here&" alt="colonel-here" />
                     </div>
+                    <br><br> 
+                    <a href="https://github.com/COLONEL-HERE/github-readme-stats">
+                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colonel-here&show_icons=true&locale=en&layout=compact&show_icons=true&theme=blue-green" alt="colonel-here"" />
+                    </a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="https://github.com/COLONEL-HERE/convoychat">
+                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-here&show_icons=true&theme=blue-green" alt="colonel-here" />
+                    </a>
+                    <br><br> 
           </div>
-          
 </div>
+
 
