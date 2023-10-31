@@ -67,7 +67,7 @@
 <div>
           <div align="center">          
                     <div>
-                              <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colonel-here&" alt="colonel-here" />
+                              <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=colonel-here&theme=github-dark&" alt="colonel-here" />
                     </div>
                     <br><br> 
                     <a href="https://github.com/COLONEL-HERE/github-readme-stats">
