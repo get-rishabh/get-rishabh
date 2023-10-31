@@ -75,7 +75,7 @@
                     </a>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <a href="https://github.com/COLONEL-HERE/convoychat">
-                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-here&show_icons=true&theme=blue-green" alt="colonel-here" />
+                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-here&show_icons=true&theme=blue-green&rank_icon=github" alt="colonel-here" />
                     </a>
                     <br><br> 
           </div>
