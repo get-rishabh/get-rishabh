@@ -67,9 +67,10 @@
 <div>
           <div align="center">          
                     <div>
-                              <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=colonel-here&theme=github-dark&" alt="colonel-here" />
+<!--                               https://github-readme-streak-stats.herokuapp.com?user=COLONEL-HERE&theme=github-dark -->
+<!--                               <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=colonel-here&theme=github-dark" alt="colonel-here" /> -->
                     </div>
-                    <br><br> 
+<!--                     <br><br>  -->
                     <a href="https://github.com/COLONEL-HERE/github-readme-stats">
                               <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colonel-here&show_icons=true&locale=en&layout=compact&show_icons=true&theme=blue-green" alt="colonel-here"" />
                     </a>
@@ -77,7 +78,7 @@
                     <a href="https://github.com/COLONEL-HERE/convoychat">
                               <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-here&show_icons=true&theme=blue-green&rank_icon=github" alt="colonel-here" />
                     </a>
-                    <br><br> 
+                    <br><br>                     
           </div>
 </div>
 
