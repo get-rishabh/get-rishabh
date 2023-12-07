@@ -71,12 +71,12 @@
 <!--                               <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=colonel-here&theme=github-dark" alt="colonel-here" /> -->
                     </div>
 <!--                     <br><br>  -->
-                    <a href="https://github.com/COLONEL-HERE/github-readme-stats">
-                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colonel-here&show_icons=true&locale=en&layout=compact&show_icons=true&theme=blue-green" alt="colonel-here"" />
+                    <a href="https://github.com/get-rishabh">
+                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=get-rishabh&show_icons=true&locale=en&layout=compact&show_icons=true&theme=blue-green" alt="colonel-here"" />
                     </a>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="https://github.com/COLONEL-HERE/convoychat">
-                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-here&show_icons=true&theme=blue-green&rank_icon=github" alt="colonel-here" />
+                    <a href="https://github.com/get-rishabh/convoychat">
+                              <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=get-rishabh&show_icons=true&theme=blue-green&rank_icon=github" alt="get-rishabh" />
                     </a>
                     <br><br>                     
           </div>
