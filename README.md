@@ -4,7 +4,7 @@
 <img align="center" width="500px" alt="GIF" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
 <p></p>
 
-<a href= "https://github.com/COLONEL-HERE"> 
+<a href= "https://github.com/get-rishabh"> 
           
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+COLONEL+Here;Open+Source+Enthusiast+%E2%9A%A1;Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Freelancer;Web+Developer;Graphic+Designer+%E2%9C%A8;Linux+Lover+%F0%9F%90%A7)](https://git.io/typing-svg)
 </a>
@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Python, C, JavaScript, Java**
 
-- ⚡ Fun fact **<a href= "https://github.com/COLONEL-HERE">DON'T CLICK HERE</a>**
+- ⚡ Fun fact **<a href= "https://github.com/get-rishabh">DON'T CLICK HERE</a>**
   <br>
   
 <hr>
