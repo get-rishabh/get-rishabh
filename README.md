@@ -21,7 +21,7 @@
 <a href="https://twitter.com/COLONEL_HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning about **LLM's**
 
 - 💬 Ask me about **Python, C, JavaScript, Java**
 
