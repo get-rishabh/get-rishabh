@@ -34,26 +34,27 @@
 
 <div align="center">
     <h3><b>Programming Languages</b></h3>
+    <code><a href="https://www.python.org" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" title="Python" alt="python" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" title="HTML5" alt="html5" width="45" height="45"/></a></code>&nbsp;
     <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.python.org" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" title="Python" alt="python" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.w3schools.com/Java/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" title="Java" alt="java" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.w3schools.com/C/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" title="C" alt="c" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
+          <code><a href="https://www.langchain.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aHnfN-GATqESe2VimWR-3FKFku2BDmEvRQ&s" title="Langchain" alt="Langchain" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" title="ReactJS" alt="reactjs" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" title="Tailwind" alt="tailwind" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://nodejs.org/" target="_blank"> <img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" title="NodeJS" alt="nodejs" width="50" height="50"/></a></code>&nbsp;
+    <code><a href="https://nodejs.org/" target="_blank"> <img src="https://celestialinfosoft.com/wp-content/uploads/2023/12/Node.js-Development-Company.webp" title="NodeJS" alt="nodejs" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" title="NextJS" alt="nextjs" width="50" height="50"/></a></code>&nbsp;
     <code><a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap" width="50" height="40"/></a></code>&nbsp;  
 </div>
 
 <div align="center">
     <h3><b>Other Tools and Utilities</b></h3>
-        <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
+        <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-data-management-relational-logo-analysis-coding-lang-pack-logos-icons-7578022.png" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
         <code><a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
         <code><a href="https://github.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
         <code><a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
