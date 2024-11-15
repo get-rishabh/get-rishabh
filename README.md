@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning about **LLM's**
 
-- 💬 Ask me about **Python, C, JavaScript, Java**
+- 💬 Ask me about **Langchain, Python, C, JavaScript, Java**
 
 - ⚡ Fun fact **<a href= "https://github.com/get-rishabh">DON'T CLICK HERE</a>**
   <br>
