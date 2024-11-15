@@ -10,7 +10,7 @@
 </a>
 </div>
 
-<h3 align="center">AI Trainer at Outlier AI | Passionate Programmer and Graphic Designer from India</h3>
+<h3 align="center">AI Trainer at Outlier | Passionate Programmer and Graphic Designer from India</h3>
 
 
 
