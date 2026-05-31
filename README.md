@@ -21,9 +21,9 @@
 <a href="https://twitter.com/COLONEL_HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
-- 🌱 I’m currently learning about **LLM's**
+- 🌱 I’m currently learning about **LLMOps**
 
-- 💬 Ask me about **Langchain, Python, C, JavaScript, Java**
+- 💬 Ask me about **Langgraph, GCP, Python, JavaScript**
 
 - ⚡ Fun fact **<a href= "https://github.com/get-rishabh">DON'T CLICK HERE</a>**
   <br>
